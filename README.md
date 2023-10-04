@@ -1,2 +1,2 @@
 # TextbookDownloader
-Not Yet
+图片转PDF的时候顺序会乱，建议依次命名为001.png, 002.png etc...
